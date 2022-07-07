@@ -1,0 +1,77 @@
+.footer-main .Coordonnées
+{
+    letter-spacing: 0.714px;
+    margin: 0px;
+    list-style-type: none;
+    color: #fff;
+    font-size: 17px;
+    letter-spacing: 0.714px;
+    line-height: 24px;
+}
+.footer-main .Coordonnées li a
+{
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+}
+.footer-main .Coordonnées li> i
+{
+	display: inline-block;
+	height: 38px;
+	width: 38px;
+    color: #fff;
+	line-height: 42px;
+	text-align: center;
+}
+/* ---------------------------------------------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------------------- */
+.footer-main .links li
+{
+    letter-spacing: 0.714px;
+    margin: 0px;
+    list-style-type: none;
+    color: #fff;
+    font-size: 17px;
+    letter-spacing: 0.714px;
+    line-height: 24px;
+}
+.footer-main .links li a
+{
+    color:  #fff;
+    text-decoration: none;
+    font-size: 17px;
+}
+.footer-main .links li > i 
+{
+	display: inline-block;
+	height: 38px;
+	width: 38px;
+	line-height: 42px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+/* ---------------------------------------------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------------------- */
+.footer-main .reseau li
+{
+    letter-spacing: 0.714px;
+    margin: 0px;
+    list-style-type: none;
+}
+.footer-main .reseau li a
+{
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+}
+.footer-main .reseau li > i 
+{
+	display: inline-block;
+	height: 38px;
+	width: 38px;
+    color: #fff;
+	line-height: 42px;
+	text-align: center;
+}
+
